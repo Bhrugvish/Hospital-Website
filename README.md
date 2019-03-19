@@ -1,2 +1,2 @@
 # Hospital-Website
-College mini Project
+A hospital website 
